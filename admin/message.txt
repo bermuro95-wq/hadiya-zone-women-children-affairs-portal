@@ -1,0 +1,1289 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Addis Ababa Bureau of women, Children &amp; Social Affairs | Home Page</title>
+    <meta content="ሆኖም የሴቶች፣ የሕፃናት፣ የአካል ጉዳተኞች፣ የአረጋዊያን እና የማህበራዊ ችገር ተጋላጭ ዜጎች መብትና ደህንነት የማስጠበቅ፤ ብሎም ሁለንትናዊ ተሳትፎአቸውና ተጠቃሚነታቸው የማረጋገጥ ተልእኮው በተገቢው ለመወጣትና የሚፈለገውን ውጤት ለማምጣት ቢሮ ብቻውን ሰርቶ የማያሳካው መሆኑን ለሁሉም ግልፅ ነው፡፡" name="description">
+    <meta content="ሆኖም የሴቶች፣ የሕፃናት፣ የአካል ጉዳተኞች፣ የአረጋዊያን እና የማህበራዊ ችገር ተጋላጭ ዜጎች መብትና ደህንነት የማስጠበቅ፤ ብሎም ሁለንትናዊ ተሳትፎአቸውና ተጠቃሚነታቸው የማረጋገጥ ተልእኮው በተገቢው ለመወጣትና የሚፈለገውን ውጤት ለማምጣት ቢሮ ብቻውን ሰርቶ የማያሳካው መሆኑን ለሁሉም ግልፅ ነው፡፡" name="keywords">
+    <meta name="author" content="Addis Ababa Bureau of women, Children &amp; Social Affairs">
+    <meta property="og:image" content="http://aawcsa.gov.et//uploads/Setting/addis-ababa-bureau-of-women-children-social-affairs-2025-03-14-67d41beab33c8.jpg">
+    <meta name="thumbnail" content="http://aawcsa.gov.et//uploads/Setting/addis-ababa-bureau-of-women-children-social-affairs-2025-03-14-67d41beab33c8.jpg">
+    <meta name="twitter:image" content="http://aawcsa.gov.et//uploads/Setting/addis-ababa-bureau-of-women-children-social-affairs-2025-03-14-67d41beab33c8.jpg">
+    <link rel="icon" type="image/x-icon" href="http://aawcsa.gov.et//uploads/Setting/addis-ababa-bureau-of-women-children-social-affairs-2025-03-14-67d41eb651d21.jpg">
+    <link rel="preconnect" href="https://fonts.gstatic.com/">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+        integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&amp;display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&amp;display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="/Smart/Front/css/bootstrap.css">
+    <link rel="stylesheet" href="/Smart/Front/css/style.css">
+    <link rel="stylesheet" href="/Smart/Front/css/colors.css">
+    <link rel="stylesheet" href="/Smart/Front/css/responsive.css">
+    <link rel="stylesheet" href="/Smart/Front/css/css/style.css">
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <style>
+    .popup {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.7);
+        z-index: 999;
+        animation: fadeIn 0.5s ease-in-out;
+    }
+
+    .popup-content {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        text-align: center;
+        animation: slideIn 0.5s ease-in-out;
+    }
+
+    .language-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 20px;
+    }
+
+    .language-button {
+        padding: 10px 20px;
+        background-color: #3498db;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease-in-out;
+    }
+
+    .language-button:hover {
+        background-color: #2980b9;
+    }
+
+    .close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        font-size: 20px;
+        cursor: pointer;
+    }
+
+    /* Media Query for Mobile Views */
+    @media (max-width: 768px) {
+        .popup-content {
+            display: none;
+        }
+    }
+
+    @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+
+    @keyframes slideIn {
+        from { transform: translate(-50%, -60%); }
+        to { transform: translate(-50%, -50%); }
+    }
+</style>
+</head>
+
+<body>
+    <!-- pageWrapper -->
+    <div id="pageWrapper">
+        <!-- phStickyWrap -->
+        <div class="phStickyWrap">
+            <!-- pageHeader -->
+            <header id="pageHeader" class="bg-white">
+                <div class="hdTopBar py-0 py-xl-3 bg-dark d-md-block">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-8">
+                                <ul class="list-unstyled hdScheduleList mb-0 d-flex flex-wrap align-items-center">
+                                    <li>
+                                        <a href="tel:ስልክ ቁጥር፡- +251 118-72-32-97 /+251 118-58-15-52 ፒያሳ ደጃች ውቤ1888">
+                                            <i class="fa-solid fa-phone-volume fa-shake"></i>
+                                            Call On: ስልክ ቁጥር፡- +251 118-72-32-97 /+251 118-58-15-52 ፒያሳ ደጃች ውቤ1888
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="tel:ስልክ ቁጥር፡- +251 118-72-32-97 /+251 118-58-15-52 ፒያሳ ደጃች ውቤ1888">
+                                            <i class="fa-solid fa-envelope-open-text fa-beat-fade"></i>
+                                            Email at: bowcsa@aawcsa.gov.et
+                                        </a>
+                                    </li>
+
+                                </ul>
+                            </div>
+                            <div class="col-4">
+                                <ul class="list-unstyled hdAlterLinksList d-flex justify-content-end flex-wrap mb-0">
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/vacancies">Vancancies</a>
+                                    </li> 
+                                    <li>
+                                       
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/tender"> Tender</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="hdFixerWrap py-0 py-md-0 py-xl-0 sSticky bg-white">
+                    <div class="container">
+                        <nav class="navbar navbar-expand-md navbar-light p-0">
+                            <div class="logo flex-shrink-0 mr-3 mr-xl-8 mr-xlwd-16">
+                                <a href="/">
+                                    <img src="https://aawcsa.gov.et/uploads/Setting/addis-ababa-bureau-of-women-children-social-affairs-2025-03-14-67d41beab3057.jpg"
+                                        class="img-fluid" alt="egovt">
+                                </a>
+                            </div>
+                            <div
+                                class="hdNavWrap flex-grow-1 d-flex align-items-center justify-content-end justify-content-lg-start">
+                                <div class="collapse navbar-collapse pageMainNavCollapse mt-2 mt-md-0"
+                                    id="pageMainNavCollapse">
+                                    <ul class="navbar-nav mainNavigation">
+                                        <li class="nav-item dropdown ddohOpener">
+                                            <a class="nav-link dropdown-toggle"
+                                                href="/">Home</a>
+                                        </li>
+                                         <li class="nav-item dropdown ddohOpener">
+                                            <a class="nav-link dropdown-toggle dropIcn" href="javascript:void(0);"
+                                                role="button" data-toggle="dropdown" aria-haspopup="true"
+                                                aria-expanded="false">bureau</a>
+                                            <div class="dropdown-menu hdMainDropdown desktopDropOnHover">
+                                                <ul class="list-unstyled mb-0 hdDropdownList">
+                                                    <li><a class="dropdown-item"
+                                                            href="https://aawcsa.gov.et/departments">Sectors</a>
+                                                    </li>
+                                                    <li><a class="dropdown-item"
+                                                            href="https://aawcsa.gov.et/directorates">Directorates</a>
+                                                    </li>
+                                                     <li><a class="dropdown-item"
+                                                            href="https://aawcsa.gov.et/services">Services</a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="nav-item dropdown ddohOpener">
+                                            <a class="nav-link dropdown-toggle"
+                                                href="https://aawcsa.gov.et/aboutus">About Us</a>
+                                        </li>
+                                        <li class="nav-item dropdown ddohOpener">
+                                            <a class="nav-link dropdown-toggle"
+                                                href="https://aawcsa.gov.et/blogs">News</a>
+                                        </li>
+
+                                        
+                                        <li class="nav-item dropdown ddohOpener">
+                                            <a class="nav-link dropdown-toggle"
+                                                href="https://aawcsa.gov.et/events">Events</a>
+                                        </li>
+
+                                         <li class="nav-item dropdown ddohOpener">
+                                            <a class="nav-link dropdown-toggle"
+                                                href="https://aawcsa.gov.et/initiatives">StakeHolders</a>
+                                        </li> 
+                                        
+                                        <li class="nav-item dropdown ddohOpener">
+                                            <a class="nav-link dropdown-toggle"
+                                                href="https://aawcsa.gov.et/contactus">Contact Us</a>
+                                        </li> 
+
+                                          <li class="nav-item dropdown ddohOpener">
+                                            <a class="nav-link dropdown-toggle"
+                                           
+                                        </li> 
+                                        
+                                        <li class="nav-item dropdown ddohOpener">
+                                            <a class="nav-link dropdown-toggle dropIcn" href="javascript:void(0);"
+                                                role="button" data-toggle="dropdown" aria-haspopup="true"
+                                                aria-expanded="false">More</a>
+                                            <div class="dropdown-menu hdMainDropdown desktopDropOnHover">
+                                                 <ul class="list-unstyled mb-0 hdDropdownList"> 
+                                                    <li><a class="dropdown-item"
+                                                            href="https://aawcsa.gov.et/faqs">FAQs</a>
+                                                    </li>
+                                                    <li><a class="dropdown-item"
+                                                            href="https://aawcsa.gov.et/galleries">Gallery</a>
+                                                     </li>
+                                                     <li><a class="dropdown-item"
+                                                            href="https://aawcsa.gov.et/publications">Publications</a>
+                                                    </li> 
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="hdRighterWrap d-flex align-items-center justify-content-end">
+                                <div class="dropdown hdLangDropdown ddohOpener d-lg-block">
+                                    <a class="d-inline-block align-top dropdown-toggle dropIcn"
+                                        href="javascript:void(0);" role="button" id="hdLanguagedropdown"
+                                        data-toggle="dropdown" aria-haspopup="true"
+                                        aria-expanded="false">Lang</a>
+                                    <div class="dropdown-menu dropdown-menu-right rounded-lg overflow-hidden desktopDropOnHover p-0"
+                                        aria-labelledby="hdLanguagedropdown">
+                                        <a class="dropdown-item text-center"
+                                            href="https://aawcsa.gov.et/localization/am">አማ</a>
+                                        <a class="dropdown-item text-center"
+                                            href="https://aawcsa.gov.et/localization/en">Eng</a>
+                                        <a class="dropdown-item text-center"
+                                            href="https://aawcsa.gov.et/localization/or">Oro</a>
+                                    </div>
+                                </div>
+
+                                <button class="navbar-toggler pgNavOpener ml-2 bdrWidthAlter position-relative"
+                                    type="button" data-toggle="collapse" data-target="#pageMainNavCollapse"
+                                    aria-controls="pageMainNavCollapse" aria-expanded="false"
+                                    aria-label="Toggle navigation">
+                                    <span class="navbar-toggler-icon"></span>
+                                </button>
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </header>
+        </div>
+        <main>
+            <!-- banners -->
+<div class="introBlock ibSlider">
+        <div>
+        <article class="d-flex w-100 position-relative ibColumn text-white overflow-hidden">
+            <div class="alignHolder d-flex align-items-center w-100">
+                <div class="align w-100 pt-20 pb-20 pt-md-40 pb-md-30 px-md-17">
+                    <div class="container position-relative">
+                        <div class="row">
+                            <div class="col-12 col-md-9 col-xl-7 fzMedium">
+                                <h1 class="text-white mb-4 h1Large">
+                                                                        <h1 class="text-white mb-4 h1Large">Addis Ababa Bureau of women, Children &amp; Social Affairs</h1>
+                                                                    </h1>
+                                                                <p>Addis Ababa Bureau of women, Children &amp; Social Affairs</p>
+                                                                <a href="https://aawcsa.gov.et/aboutus" class="btn btnTheme font-weight-bold btnMinSm text-capitalize position-relative border-0 p-0 mt-6" data-hover="Discover more">
+                                    <span class="d-block btnText">Discover more</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <span class="ibBgImage bgCover position-absolute" style="background-image: url(https://aawcsa.gov.et/uploads/Banner/-2024-12-30-67724d9a0246f.jpg)"></span>
+        </article>
+    </div>
+        <div>
+        <article class="d-flex w-100 position-relative ibColumn text-white overflow-hidden">
+            <div class="alignHolder d-flex align-items-center w-100">
+                <div class="align w-100 pt-20 pb-20 pt-md-40 pb-md-30 px-md-17">
+                    <div class="container position-relative">
+                        <div class="row">
+                            <div class="col-12 col-md-9 col-xl-7 fzMedium">
+                                <h1 class="text-white mb-4 h1Large">
+                                                                        <h1 class="text-white mb-4 h1Large">Addis Ababa Bureau of women, Children &amp; Social Affairs</h1>
+                                                                    </h1>
+                                                                <p>Addis Ababa Bureau of women, Children &amp; Social Affairs</p>
+                                                                <a href="https://aawcsa.gov.et/aboutus" class="btn btnTheme font-weight-bold btnMinSm text-capitalize position-relative border-0 p-0 mt-6" data-hover="Discover more">
+                                    <span class="d-block btnText">Discover more</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <span class="ibBgImage bgCover position-absolute" style="background-image: url(https://aawcsa.gov.et/uploads/Banner/-2024-12-30-67724d3335812.jpg)"></span>
+        </article>
+    </div>
+        <div>
+        <article class="d-flex w-100 position-relative ibColumn text-white overflow-hidden">
+            <div class="alignHolder d-flex align-items-center w-100">
+                <div class="align w-100 pt-20 pb-20 pt-md-40 pb-md-30 px-md-17">
+                    <div class="container position-relative">
+                        <div class="row">
+                            <div class="col-12 col-md-9 col-xl-7 fzMedium">
+                                <h1 class="text-white mb-4 h1Large">
+                                                                        <h1 class="text-white mb-4 h1Large">Addis Ababa Bureau of women, Children &amp; Social Affairs</h1>
+                                                                    </h1>
+                                                                <p>Addis Ababa Bureau of women, Children &amp; Social Affairs</p>
+                                                                <a href="https://aawcsa.gov.et/aboutus" class="btn btnTheme font-weight-bold btnMinSm text-capitalize position-relative border-0 p-0 mt-6" data-hover="Discover more">
+                                    <span class="d-block btnText">Discover more</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <span class="ibBgImage bgCover position-absolute" style="background-image: url(https://aawcsa.gov.et/uploads/Banner/-2024-12-30-67724e4409db3.jpg)"></span>
+        </article>
+    </div>
+    
+
+</div>
+<!-- head message -->
+<article class="aboutMayorBlock pt-md-7 pt-xl-11 pb-7 pb-md-13 pb-lg-20 pb-xl-28">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-6 pt-4">
+                <h2 class="lh44 mb-6">
+                                        Message from the head of the  bureau
+                                    </h2>
+
+                <blockquote class="meetQuote fontAlter text-lDark mt-6 py-1 pl-4 pl-lg-8 pr-md-12 pr-lg-20 pr-xl-28">
+                                        Addis Ababa City Administration Women, Children and Social Affairs Bureau The rights and safety of women, children, disabled and the elderly in the city in accordance with the authority, duties and re...
+                                        <a href="#" data-toggle="modal" data-target=".bd-example-modal-lg">Read More</a><br><br>
+                    <cite class="d-block fsNormal" style="font-weight: bolder;">
+                                                w/o konjit Debela
+                        
+                        <span class="fontBase ctSubtitleText">, Head of Bureau </span>
+                    </cite>
+                </blockquote>
+
+                <a href="https://www.youtube.com/@A.A.C.ACODEENFORCEMENT" class="btnPlayLink fontAlter position-relative d-inline-block align-top mt-4 mt-lg-7 lightbox" data-fancybox="true">
+                    <i class="icnPlay d-flex align-items-center justify-content-center position-absolute fas fa-play rounded-circle"><span class="sr-only">icon</span></i>
+                    <div class="bplTextWrap">
+                        <em class="d-block fsNormal">
+                            <span class="d-block">Video Intro</span>
+                            <span class="d-block">About the bureau</span>
+                        </em>
+                    </div>
+                </a>
+            </div>
+            <div class="col-12 col-md-6">
+                <div class="imgTwoImageHolder position-relative mt-7 mt-md-0 mb-20 mb-md-0">
+                    <span class="img img1 position-relative d-block">
+                        <img src="https://aawcsa.gov.et/uploads/Head/wo-konjit-debela-2025-04-15-67fdf1b863ae5.jpg" class="img-fluid" alt="image description">
+                    </span>
+                    <!-- <span class="img img2 d-block position-absolute">
+                        <img src="/Smart/Front/images/img08.jpg" class="img-fluid" alt="image description">
+                    </span> -->
+                    <span class="itihBgPattern position-absolute">
+                        <img src="/Smart/Front/images/bgPattern1.png" class="img-fluid" alt="pattern">
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="container">
+                    <p style="margin: 20px;">
+                                                Addis Ababa City Administration Women, Children and Social Affairs Bureau The rights and safety of women, children, disabled and the elderly in the city in accordance with the authority, duties and responsibilities given by the city administration proclamation No. 84/2 With advice; Many actions are being taken to ensure the full participation and benefits of socially vulnerable residents.
+Protect the rights and security of women, children, the disabled, the elderly and vulnerable citizens; It is clear to everyone that the Bureau alone is not able to achieve the results required for our mission to ensure their wholehearted participation and benefits.
+Therefore, in cooperation with Kebiro, governmental and non-governmental institutions, civil society organizations and residents of our city, especially our office, can fulfill the mission given to us I encourage you to do all your work to ensure equitable benefits for our customers by taking ownership of their organizations and processes.
+                                            </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</article>
+<!-- sectors -->
+<aside class="featuresAsideBlock position-relative text-white">
+    <div class="container">
+        <div class="flatpWrap position-relative mt-n8 mt-md-n18">
+            <ul class="list-unstyled fabFeaturesList mb-0 d-flex overflow-hidden flex-wrap">
+                                    <li>
+                        <a href="https://aawcsa.gov.et/departments/31"
+                            class="fflColumn d-block w-100 text-center px-2 pt-4 pb-10">
+                            <span
+                                class="icnWrap d-flex align-items-center justify-content-center mx-auto mb-4 rounded-circle">
+                                <i
+                                    class="fa-sharp fa-thin fa-house position-absolute icnWrap rounded-circle d-flex align-items-center justify-content-center shadow"><span
+                                        class="sr-only">icon</span></i>
+                            </span>
+                            <h2 class="mb-0">hgsdjhdsjbh</h2>
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="https://aawcsa.gov.et/departments/30"
+                            class="fflColumn d-block w-100 text-center px-2 pt-4 pb-10">
+                            <span
+                                class="icnWrap d-flex align-items-center justify-content-center mx-auto mb-4 rounded-circle">
+                                <i
+                                    class="fa-sharp fa-thin fa-house position-absolute icnWrap rounded-circle d-flex align-items-center justify-content-center shadow"><span
+                                        class="sr-only">icon</span></i>
+                            </span>
+                            <h2 class="mb-0">በአዲስ  አበባ ከተማ አስተዳደር ሴቶች ሕፃናትና ማህበራዊ ጉዳይ ቢሮ</h2>
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="https://aawcsa.gov.et/departments/29"
+                            class="fflColumn d-block w-100 text-center px-2 pt-4 pb-10">
+                            <span
+                                class="icnWrap d-flex align-items-center justify-content-center mx-auto mb-4 rounded-circle">
+                                <i
+                                    class="fa-solid fa-lightbulb position-absolute icnWrap rounded-circle d-flex align-items-center justify-content-center shadow"><span
+                                        class="sr-only">icon</span></i>
+                            </span>
+                            <h2 class="mb-0">የሕፃናት ዘርፍ ም/ቢሮ ኃላፊ</h2>
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="https://aawcsa.gov.et/departments/28"
+                            class="fflColumn d-block w-100 text-center px-2 pt-4 pb-10">
+                            <span
+                                class="icnWrap d-flex align-items-center justify-content-center mx-auto mb-4 rounded-circle">
+                                <i
+                                    class="fa-solid fa-lightbulb position-absolute icnWrap rounded-circle d-flex align-items-center justify-content-center shadow"><span
+                                        class="sr-only">icon</span></i>
+                            </span>
+                            <h2 class="mb-0">ሴቶች ዘርፍ ም/ቢሮ ኃላፊ</h2>
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="https://aawcsa.gov.et/departments/27"
+                            class="fflColumn d-block w-100 text-center px-2 pt-4 pb-10">
+                            <span
+                                class="icnWrap d-flex align-items-center justify-content-center mx-auto mb-4 rounded-circle">
+                                <i
+                                    class="fa-solid fa-lightbulb position-absolute icnWrap rounded-circle d-flex align-items-center justify-content-center shadow"><span
+                                        class="sr-only">icon</span></i>
+                            </span>
+                            <h2 class="mb-0">የማህበራዊ ዘርፍ ም/ቢሮ ኃላፊ</h2>
+                        </a>
+                    </li>
+                                    <li>
+                        <a href="https://aawcsa.gov.et/departments/23"
+                            class="fflColumn d-block w-100 text-center px-2 pt-4 pb-10">
+                            <span
+                                class="icnWrap d-flex align-items-center justify-content-center mx-auto mb-4 rounded-circle">
+                                <i
+                                    class="fa-sharp fa-thin fa-house position-absolute icnWrap rounded-circle d-flex align-items-center justify-content-center shadow"><span
+                                        class="sr-only">icon</span></i>
+                            </span>
+                            <h2 class="mb-0">በአዲስ  አበባ ከተማ አስተዳደር ሴቶች ሕፃናትና ማህበራዊ ጉዳይ ቢሮ / ቢሮ ኃላፊ</h2>
+                        </a>
+                    </li>
+                            </ul>
+        </div>
+    </div>
+    <div class="fabBtNoteTextWrap text-center fontAlter fzMedium pt-6 pt-md-10 pb-6 pb-md-10 pb-lg-14">
+        <div class="container">
+            <div class="d-lg-flex justify-content-center align-items-center">
+                <p class="mb-lg-0">Explore our departments and services.</p>
+                <a href="https://aawcsa.gov.et/departments"
+                    class="btn btn-dark btnSwitchDark fwMedium position-relative border-0 p-0 btnCustomSmall mt-md-1 mt-lg-0 ml-lg-4"
+                    data-hover="Let’s explore more"><span
+                        class="d-block btnText fwMedium">Let’s explore more</span></a>
+            </div>
+        </div>
+    </div>
+</aside>
+
+<!-- directorates -->
+<section class="exploreServicesBlock position-relative pt-7 pt-md-12 pt-lg-16 pt-xl-20 pb-0 pb-md-4 pb-lg-8 pb-xl-12">
+    <div class="container">
+        <header class="headingHead mb-7 md-md-9 mb-lg-13">
+            <div class="row align-items-end">
+                <div class="col-12 col-sm-7 col-xl-5">
+                    <h2 class="mb-0">Let’s explore local sectors, directorates &amp; services  </h2>
+                </div>
+                <div class="col-12 col-sm-5 col-xl-7 d-sm-flex justify-content-sm-end">
+                    <a href="https://aawcsa.gov.et/departments"
+                        class="btn btn-dark text-capitalize position-relative border-0 p-0 mt-4 mt-sm-0 mb-sm-1 minWidthMedium"
+                        data-hover="Explore More">
+                        <span class="d-block btnText">Let’s explore more</span>
+                    </a>
+                </div>
+            </div>
+        </header>
+        <div class="row justify-content-center">
+                            <a href="https://aawcsa.gov.et/directorates/30">
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <article class="esColumn position-relative text-center mb-13">
+                            <span class="imgHolder d-block w-100 bgCover"
+                                style="background-image: url(https://aawcsa.gov.et/uploads/Directorate/-2025-04-11-67f8d0f7c1055.jpg)"></span>
+                            <div class="escCaption bg-white shadow position-absolute pt-4 px-2 pb-5">
+                                <h3 class="fwMedium mb-0">የኮሙኒኬሽን ጉዳዮች ዳይሬክቶሬት</h3>
+                                <a href="https://aawcsa.gov.et/directorates/30"
+                                    class="btnLink fontAlter">Read More <i
+                                        class="fas fa-chevron-right blIcn"><span class="sr-only">icon</span></i></a>
+                            </div>
+                        </article>
+                    </div>
+                </a>
+                            <a href="https://aawcsa.gov.et/directorates/29">
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <article class="esColumn position-relative text-center mb-13">
+                            <span class="imgHolder d-block w-100 bgCover"
+                                style="background-image: url(https://aawcsa.gov.et/uploads/Directorate/-2025-04-11-67f8d2235793b.jpg)"></span>
+                            <div class="escCaption bg-white shadow position-absolute pt-4 px-2 pb-5">
+                                <h3 class="fwMedium mb-0">ፕሮጀክት ዝግጅት ክትትልና ኃብት ማፈላለግ ዳይሬክቶሬት</h3>
+                                <a href="https://aawcsa.gov.et/directorates/29"
+                                    class="btnLink fontAlter">Read More <i
+                                        class="fas fa-chevron-right blIcn"><span class="sr-only">icon</span></i></a>
+                            </div>
+                        </article>
+                    </div>
+                </a>
+                            <a href="https://aawcsa.gov.et/directorates/28">
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <article class="esColumn position-relative text-center mb-13">
+                            <span class="imgHolder d-block w-100 bgCover"
+                                style="background-image: url(https://aawcsa.gov.et/uploads/Directorate/-2025-02-08-67a779670bd6c.png)"></span>
+                            <div class="escCaption bg-white shadow position-absolute pt-4 px-2 pb-5">
+                                <h3 class="fwMedium mb-0">ማህበራዊ ሴፍትነትና ኑሮ ማሻሻያ ዳይሬክቶሬት</h3>
+                                <a href="https://aawcsa.gov.et/directorates/28"
+                                    class="btnLink fontAlter">Read More <i
+                                        class="fas fa-chevron-right blIcn"><span class="sr-only">icon</span></i></a>
+                            </div>
+                        </article>
+                    </div>
+                </a>
+                            <a href="https://aawcsa.gov.et/directorates/27">
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <article class="esColumn position-relative text-center mb-13">
+                            <span class="imgHolder d-block w-100 bgCover"
+                                style="background-image: url(https://aawcsa.gov.et/uploads/Directorate/-2025-03-28-67e6538fdb356.jpg)"></span>
+                            <div class="escCaption bg-white shadow position-absolute pt-4 px-2 pb-5">
+                                <h3 class="fwMedium mb-0">ህፃናት መብትና ደህንነት ማስጠበቅ ዳይሬክቶሬት</h3>
+                                <a href="https://aawcsa.gov.et/directorates/27"
+                                    class="btnLink fontAlter">Read More <i
+                                        class="fas fa-chevron-right blIcn"><span class="sr-only">icon</span></i></a>
+                            </div>
+                        </article>
+                    </div>
+                </a>
+                            <a href="https://aawcsa.gov.et/directorates/26">
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <article class="esColumn position-relative text-center mb-13">
+                            <span class="imgHolder d-block w-100 bgCover"
+                                style="background-image: url(https://aawcsa.gov.et/uploads/Directorate/-2025-03-28-67e6540c65d7c.jpg)"></span>
+                            <div class="escCaption bg-white shadow position-absolute pt-4 px-2 pb-5">
+                                <h3 class="fwMedium mb-0">ቀዳማይ ልጅነት እድገት ክትትል ዳይሬክቶሬት</h3>
+                                <a href="https://aawcsa.gov.et/directorates/26"
+                                    class="btnLink fontAlter">Read More <i
+                                        class="fas fa-chevron-right blIcn"><span class="sr-only">icon</span></i></a>
+                            </div>
+                        </article>
+                    </div>
+                </a>
+                            <a href="https://aawcsa.gov.et/directorates/25">
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <article class="esColumn position-relative text-center mb-13">
+                            <span class="imgHolder d-block w-100 bgCover"
+                                style="background-image: url(https://aawcsa.gov.et/uploads/Directorate/-2025-02-08-67a776e36af6a.png)"></span>
+                            <div class="escCaption bg-white shadow position-absolute pt-4 px-2 pb-5">
+                                <h3 class="fwMedium mb-0">ማህበራዊ ጥበቃ መከታተያና ማስተባበሪያ ዳይሬክቶሬት</h3>
+                                <a href="https://aawcsa.gov.et/directorates/25"
+                                    class="btnLink fontAlter">Read More <i
+                                        class="fas fa-chevron-right blIcn"><span class="sr-only">icon</span></i></a>
+                            </div>
+                        </article>
+                    </div>
+                </a>
+                            <a href="https://aawcsa.gov.et/directorates/24">
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <article class="esColumn position-relative text-center mb-13">
+                            <span class="imgHolder d-block w-100 bgCover"
+                                style="background-image: url(https://aawcsa.gov.et/uploads/Directorate/-2025-02-08-67a77874c5b29.png)"></span>
+                            <div class="escCaption bg-white shadow position-absolute pt-4 px-2 pb-5">
+                                <h3 class="fwMedium mb-0">የሴቶች ተሳትፎ፤ ማብቃትና ተጠቃሚነት ዳይሬክቶሬት</h3>
+                                <a href="https://aawcsa.gov.et/directorates/24"
+                                    class="btnLink fontAlter">Read More <i
+                                        class="fas fa-chevron-right blIcn"><span class="sr-only">icon</span></i></a>
+                            </div>
+                        </article>
+                    </div>
+                </a>
+                            <a href="https://aawcsa.gov.et/directorates/23">
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <article class="esColumn position-relative text-center mb-13">
+                            <span class="imgHolder d-block w-100 bgCover"
+                                style="background-image: url(https://aawcsa.gov.et/uploads/Directorate/-2025-02-08-67a778e376439.png)"></span>
+                            <div class="escCaption bg-white shadow position-absolute pt-4 px-2 pb-5">
+                                <h3 class="fwMedium mb-0">አካል ጉዳተኞች፣ አረጋዊያን  እና  ቤተሰብ ጉዳይች  ማስተባበሪያና  መከታተያ ዳይሬክቶሬት</h3>
+                                <a href="https://aawcsa.gov.et/directorates/23"
+                                    class="btnLink fontAlter">Read More <i
+                                        class="fas fa-chevron-right blIcn"><span class="sr-only">icon</span></i></a>
+                            </div>
+                        </article>
+                    </div>
+                </a>
+                            <a href="https://aawcsa.gov.et/directorates/22">
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <article class="esColumn position-relative text-center mb-13">
+                            <span class="imgHolder d-block w-100 bgCover"
+                                style="background-image: url(https://aawcsa.gov.et/uploads/Directorate/-2025-02-08-67a77929783ab.png)"></span>
+                            <div class="escCaption bg-white shadow position-absolute pt-4 px-2 pb-5">
+                                <h3 class="fwMedium mb-0">ስርዓተ-ፆታ ጉዳይ ማስረፅና ማካተት ዳይሬክቶሬት</h3>
+                                <a href="https://aawcsa.gov.et/directorates/22"
+                                    class="btnLink fontAlter">Read More <i
+                                        class="fas fa-chevron-right blIcn"><span class="sr-only">icon</span></i></a>
+                            </div>
+                        </article>
+                    </div>
+                </a>
+                    </div>
+    </div>
+</section>
+
+
+<!-- counters -->
+<aside class="counterftAsideBlock position-relative text-center text-white d-flex bg-dark">
+    <div class="alignHolder d-flex align-items-center w-100 position-relative">
+        <div class="align w-100 pt-9 pb-5">
+            <div class="container">
+                <ul class="list-unstyled cfbFeatList d-flex flex-wrap mb-0 justify-content-center text-white">
+                    <li>
+                        <span class="icnWrap d-flex align-items-center justify-content-center w-100 mb-4">
+                            <i class="fa-solid fa-people-arrows" style="color: white;"></i> </span>
+                        <h3 class="fwSemiBold text-white textCount mb-3"><span class="dataCount">85</h3>
+                        <h4 class="subtitle mb-0 font-weight-normal">Total People lived in our city</h4>
+                    </li>
+                    <li>
+                        <span class="icnWrap d-flex align-items-center justify-content-center w-100 mb-4">
+                            <i class="fa-brands fa-usps" style="color: white;"></i>
+                        </span>
+                        <h3 class="fwSemiBold text-white textCount mb-3"><span class="dataCount">48</h3>
+                        <h4 class="subtitle mb-0 font-weight-normal">Services We provide</h4>
+                    </li>
+                    <li>
+                        <span class="icnWrap d-flex align-items-center justify-content-center w-100 mb-4">
+                            <i class="fa-solid fa-hashtag" style="color: white;"></i>
+                        </span>
+                        <h3 class="fwSemiBold text-white textCount mb-3"><span class="dataCount">1000</h3>
+                        <h4 class="subtitle mb-0 font-weight-normal">Reaches on social media</h4>
+                    </li>
+                    <li>
+                        <span class="icnWrap d-flex align-items-center justify-content-center w-100 mb-4">
+                            <i class="fa-solid fa-bars-progress" style="color: white;"></i>
+                        </span>
+                        <h3 class="fwSemiBold text-white textCount mb-3"><span class="dataCount">7</h3>
+                        <h4 class="subtitle mb-0 font-weight-normal">Total number of Projects</h4>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <span class="cfbBgWrap bgCover position-absolute h-100 w-100 inaccessible" style="background-image: url(/Smart/Front/images/bg01.png);"></span>
+</aside><!-- events -->
+<section class="upcomeventsBlock position-relative pt-7 pb-3 pt-md-9 pb-md-6 pt-lg-14 pb-lg-11 pt-xl-20 pb-xl-16">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-8">
+                <div class="pr-lg-8">
+                    <header class="headingHead mb-6 mb-lg-8 mb-xl-12">
+                        <div class="row align-items-end">
+                            <div class="col-12 col-sm-6 col-md-7">
+                                <h2 class="mb-sm-0 fwSemiBold h2Small">Upcoming Events</h2>
+                            </div>
+                            <div class="col-12 col-sm-6 col-md-5 d-sm-flex justify-content-sm-end">
+                                <a href="https://aawcsa.gov.et/events"
+                                    class="btn-link fontAlter">See All Events <i
+                                        class="fas fa-chevron-right blIcn"><span class="sr-only">icon</span></i></a>
+                            </div>
+                        </div>
+                    </header>
+                    <div class="row">
+                                                    <div class="col-12 col-md-6">
+                                <article class="ueEveColumn position-relative shadow bg-white mb-6">
+                                    <div class="imgHolder position-relative">
+                                        <a href="#">
+                                            <img src="/Smart/Front/images/img09.jpg" class="img-fluid d-block w-100"
+                                                alt="image description">
+                                        </a>
+                                        <time
+                                            class="ueTimeTag position-absolute text-center d-flex bg-white fontAlter fwSemiBold text-lDark text-uppercase"
+                                            datetime="2011-01-12">
+                                            <span
+                                                class="d-block text-white textDay flex-shrink-0 font-weight-bold">01</span>
+                                            <span class="d-block py-2 px-3">OCT 2022</span>
+                                        </time>
+                                    </div>
+                                    <div class="ueDescriptionWrap pt-5 pb-8 px-5">
+                                        <strong
+                                            class="d-block ueCatTitle fwSemiBold text-secondary mb-2">Entertainement</strong>
+                                        <h3 class="h3Small fwMedium mb-3">
+                                            <a href="#">Organizing City Photography Contest-2022</a>
+                                        </h3>
+                                        <address>
+                                            <ul class="list-unstyled ueScheduleList">
+                                                <li>
+                                                    <i class="icomoon-clock icn position-absolute"><span
+                                                            class="sr-only">icon</span></i>
+                                                    9:30am - 1:00pm
+                                                </li>
+                                                <li>
+                                                    <i class="icomoon-location icn position-absolute"><span
+                                                            class="sr-only">icon</span></i>
+                                                    Mayor Office, Texas city
+                                                </li>
+                                            </ul>
+                                        </address>
+                                        <a href="#"
+                                            class="btn btnCustomLightOutline bdrWidthAlter btn-sm text-capitalize position-relative border-0 p-0 mt-3 align-top"
+                                            data-hover="More Details">
+                                            <span class="d-block btnText">More Details</span>
+                                        </a>
+                                    </div>
+                                </article>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+            <aside class="col-12 col-lg-4 uecColBg position-static">
+                <div class="pl-lg-5">
+                    <header class="headingHead mb-6 mb-lg-8 mb-xl-12">
+                        <h2 class="mb-0 fwSemiBold h2Small">Publications</h2>
+                    </header>
+                    <article class="cdColumnWidget bg-white shadow px-6 pt-6 pb-5 mb-6">
+                        <i
+                            class="ccwIcn fa-solid fa-book d-flex align-items-center justify-content-center text-white rounded-lg w-100 mb-6"><span
+                                class="sr-only">icon</span></i>
+                        <ul class="list-unstyled cdDocsList mb-0">
+                                                            <li>
+                                    <h3 class="font-weight-normal cdTitle mb-1">
+                                        <a
+                                            href="https://aawcsa.gov.et/publications/detail/21">ለችግር ተጋላጭና ተጎጅ ለሆኑ የሕብረተሰብ ክፍሎች   የድጋፍና አገልግሎት አሰጣጥ    መመሪያ ቁጥር 189/2018</a>
+                                    </h3>
+                                    <time
+                                        datetime="May 20, 2026"
+                                        class="d-block">May 20, 2026</time>
+                                </li>
+                                                            <li>
+                                    <h3 class="font-weight-normal cdTitle mb-1">
+                                        <a
+                                            href="https://aawcsa.gov.et/publications/detail/20">የፌዴራል መንግስት ሠራተኞች አዋጅ</a>
+                                    </h3>
+                                    <time
+                                        datetime="January 21, 2026"
+                                        class="d-block">January 21, 2026</time>
+                                </li>
+                                                            <li>
+                                    <h3 class="font-weight-normal cdTitle mb-1">
+                                        <a
+                                            href="https://aawcsa.gov.et/publications/detail/19">አዋጅ ቁጥር 84/2016  የአዲስ አበባ ከተማ አስተዳደር አስፈፃሚ አካላትን እንደገና ለማቋቋም የወጣ አዋጅ</a>
+                                    </h3>
+                                    <time
+                                        datetime="January 16, 2026"
+                                        class="d-block">January 16, 2026</time>
+                                </li>
+                                                            <li>
+                                    <h3 class="font-weight-normal cdTitle mb-1">
+                                        <a
+                                            href="https://aawcsa.gov.et/publications/detail/18">በአዱስ አበባ ከተማ አስተዲዯር ሴቶች ህጻናትና ማህበራዊ ጉዲይ ቢሮ  የማህበረሰብ አቀፍ እንክብካቤ ጥምረት  አዯረጃጀት የአሠራር መመሪያ   ቁጥር 137/2015</a>
+                                    </h3>
+                                    <time
+                                        datetime="June 27, 2025"
+                                        class="d-block">June 27, 2025</time>
+                                </li>
+                                                            <li>
+                                    <h3 class="font-weight-normal cdTitle mb-1">
+                                        <a
+                                            href="https://aawcsa.gov.et/publications/detail/17">አዲስ አበባ ከተማ አስተዳደር የሴቶችህፃናትና ማህበራዊ ጉዳይ ቢሮ</a>
+                                    </h3>
+                                    <time
+                                        datetime="July 29, 2024"
+                                        class="d-block">July 29, 2024</time>
+                                </li>
+                                                    </ul>
+                        <footer class="ccwFoot text-center mt-2 pt-4">
+                            <a href="https://aawcsa.gov.et/publications"
+                                class="btn-link fontAlter">More Documents <i
+                                    class="fas fa-chevron-right blIcn"><span class="sr-only">icon</span></i></a>
+                        </footer>
+                    </article>
+                </div>
+            </aside>
+        </div>
+    </div>
+</section>
+<!-- news -->
+<section
+    class="newsPulicationsBlock position-relative bg-light overflow-hidden pt-7 pb-4 pt-md-10 pb-md-4 pt-lg-16 pb-lg-10 pt-xl-22 pb-xl-16">
+    <div class="container position-relative npbHolder">
+        <div class="row">
+            <div class="col-12 col-lg-3">
+                <header class="headingHead pt-2 mb-7 mb-lg-0">
+                    <h2 class="fwSemiBold mb-2">News</h2>
+                    <p>The news about recent activities for needed peoples.</p>
+                    <a href="https://aawcsa.gov.et/blogs"
+                        class="btn btn-outline-secondary bdrWidthAlter text-capitalize position-relative border-0 p-0 mt-5 btnXsMinWidth"
+                        data-hover="More News">
+                        <span class="d-block btnText">More News</span>
+                    </a>
+                </header>
+            </div>
+            <div class="col-12 col-lg-9">
+                <div class="row">
+                                            <div class="col-12 col-md-6 col-xl-4">
+                            <article class="npbColumn shadow bg-white mb-6">
+                                <div class="imgHolder position-relative">
+                                    <a href="https://aawcsa.gov.et/blogs/detail/64">
+                                                                                    <img src="https://aawcsa.gov.et/uploads/Blog/69fc2d67f3230.photo_2026-04-07_13-08-57.jpg"
+                                                class="img-fluid w-100 d-block" alt="image description">
+                                                                            </a>
+                                    <time datetime="2011-01-12"
+                                        class="npbTimeTag font-weight-bold fontAlter position-absolute text-white px-2 py-1">Thu, May 07, 2026 06:12 AM</time>
+                                </div>
+                                <div class="npbDescriptionWrap px-5 pt-8 pb-5">
+                                    <strong class="d-block npbcmWrap font-weight-normal mb-1">
+                                        <span class="mr-5">In ሴቶች <br> <br>
+                                            <strong>ቢሮው የ2018 በጀት ዓመት የዘጠኝ ወራት እቅድ...</strong>
+
+                                        </span>
+                                        <i class="fa-solid fa-comments"></i> 0
+                                    </strong>
+                                    <h3 class="fwSemiBold mb-5">
+                                        <a href="https://aawcsa.gov.et/blogs/detail/%E1%89%A2%E1%88%AE%E1%8B%8D%20%E1%8B%A82018%20%E1%89%A0%E1%8C%80%E1%89%B5%20%E1%8B%93%E1%88%98%E1%89%B5%20%E1%8B%A8%E1%8B%98%E1%8C%A0%E1%8A%9D%20%E1%8B%88%E1%88%AB%E1%89%B5%20%E1%8A%A5%E1%89%85%E1%8B%B5%20%E1%8A%A0%E1%8D%88%E1%8D%83%E1%8D%80%E1%88%9D%20%E1%88%AA%E1%8D%96%E1%88%AD%E1%89%B1%E1%8A%95%20%E1%8A%A0%E1%88%B5%E1%88%98%E1%88%8D%E1%8A%AD%E1%89%B6%20%E1%8A%A8%E1%8C%A0%E1%89%85%E1%88%8B%E1%88%8B%20%E1%88%B0%E1%88%AB%E1%89%B0%E1%8A%9E%E1%89%BD%20%E1%8C%8B%E1%88%AD%20%E1%8B%A8%E1%8C%8D%E1%88%9D%E1%8C%88%E1%88%9B%20%E1%88%98%E1%8B%B5%E1%88%A8%20%E1%8A%A0%E1%8A%AB%E1%88%84%E1%8B%B0%E1%8D%A2%C2%A0%20%20%E1%88%9A%E1%8B%AB%E1%8B%9A%E1%8B%AB%2021%20%E1%89%80%E1%8A%95%202018%20%E1%8B%93.%E1%88%9D%20%E1%8B%A8%E1%8A%A0.%E1%8A%A0.%E1%88%B4.%E1%88%95.%E1%88%9B.%E1%8C%89.%20%E1%89%A2%E1%88%AE"></a>
+                                    </h3>
+                                    <a href="https://aawcsa.gov.et/blogs/detail/64" 
+                                    class="btnCr d-inline-block align-top fontAlter">Continue Reading <i class="fa-solid fa-arrow-right"></i></a>
+                                </div>
+                            </article>
+                        </div>
+                                            <div class="col-12 col-md-6 col-xl-4">
+                            <article class="npbColumn shadow bg-white mb-6">
+                                <div class="imgHolder position-relative">
+                                    <a href="https://aawcsa.gov.et/blogs/detail/63">
+                                                                                    <img src="https://aawcsa.gov.et/uploads/Blog/69f85ae810629.photo_2026-04-23_12-20-32 (2).jpg"
+                                                class="img-fluid w-100 d-block" alt="image description">
+                                                                            </a>
+                                    <time datetime="2011-01-12"
+                                        class="npbTimeTag font-weight-bold fontAlter position-absolute text-white px-2 py-1">Mon, May 04, 2026 08:38 AM</time>
+                                </div>
+                                <div class="npbDescriptionWrap px-5 pt-8 pb-5">
+                                    <strong class="d-block npbcmWrap font-weight-normal mb-1">
+                                        <span class="mr-5">In ሴቶች <br> <br>
+                                            <strong>አረጋዊያን በከተማችን የልማት ጉዞ ተሳታፊና ተጠ...</strong>
+
+                                        </span>
+                                        <i class="fa-solid fa-comments"></i> 0
+                                    </strong>
+                                    <h3 class="fwSemiBold mb-5">
+                                        <a href="https://aawcsa.gov.et/blogs/detail/%E1%8A%A0%E1%88%A8%E1%8C%8B%E1%8B%8A%E1%8B%AB%E1%8A%95%20%E1%89%A0%E1%8A%A8%E1%89%B0%E1%88%9B%E1%89%BD%E1%8A%95%20%E1%8B%A8%E1%88%8D%E1%88%9B%E1%89%B5%20%E1%8C%89%E1%8B%9E%20%E1%89%B0%E1%88%B3%E1%89%B3%E1%8D%8A%E1%8A%93%20%E1%89%B0%E1%8C%A0%E1%89%83%E1%88%9A%E1%8A%90%E1%89%B3%E1%89%B8%E1%8B%8D%20%E1%88%88%E1%88%9B%E1%88%A8%E1%8C%8B%E1%8C%88%E1%8C%A5%20%E1%89%A0%E1%88%AD%E1%8A%AB%E1%89%B3%20%E1%89%B0%E1%8C%8D%E1%89%A3%E1%88%AB%E1%89%B5%20%E1%8A%A5%E1%8B%A8%E1%89%B0%E1%8A%A8%E1%8A%93%E1%8B%88%E1%8A%91%20%E1%88%98%E1%88%86%E1%8A%93%E1%89%B8%E1%8B%8D%20%C2%A0%E1%89%B0%E1%8C%88%E1%88%88%E1%8D%80%E1%8D%A2%20%20%E1%88%9A%E1%8B%AB%E1%8B%9A%E1%8B%AB%C2%A015%20%E1%89%80%E1%8A%95%202018%20%E1%8B%93.%E1%88%9D%20%E1%8B%A8%E1%8A%A0.%E1%8A%A0.%E1%88%B4.%E1%88%95.%E1%88%9B.%E1%8C%89.%20%E1%89%A2"></a>
+                                    </h3>
+                                    <a href="https://aawcsa.gov.et/blogs/detail/63" 
+                                    class="btnCr d-inline-block align-top fontAlter">Continue Reading <i class="fa-solid fa-arrow-right"></i></a>
+                                </div>
+                            </article>
+                        </div>
+                                            <div class="col-12 col-md-6 col-xl-4">
+                            <article class="npbColumn shadow bg-white mb-6">
+                                <div class="imgHolder position-relative">
+                                    <a href="https://aawcsa.gov.et/blogs/detail/62">
+                                                                                    <img src="https://aawcsa.gov.et/uploads/Blog/69f859c46fac0.photo_2026-03-31_18-06-53.jpg"
+                                                class="img-fluid w-100 d-block" alt="image description">
+                                                                            </a>
+                                    <time datetime="2011-01-12"
+                                        class="npbTimeTag font-weight-bold fontAlter position-absolute text-white px-2 py-1">Mon, May 04, 2026 08:33 AM</time>
+                                </div>
+                                <div class="npbDescriptionWrap px-5 pt-8 pb-5">
+                                    <strong class="d-block npbcmWrap font-weight-normal mb-1">
+                                        <span class="mr-5">In የኽጻናት <br> <br>
+                                            <strong>በማረሚያ ቤት ለሚገኙ ሕፃናት ሁለንተናዊ  እድገ...</strong>
+
+                                        </span>
+                                        <i class="fa-solid fa-comments"></i> 0
+                                    </strong>
+                                    <h3 class="fwSemiBold mb-5">
+                                        <a href="https://aawcsa.gov.et/blogs/detail/%E1%89%A0%E1%88%9B%E1%88%A8%E1%88%9A%E1%8B%AB%20%E1%89%A4%E1%89%B5%20%E1%88%88%E1%88%9A%E1%8C%88%E1%8A%99%20%E1%88%95%E1%8D%83%E1%8A%93%E1%89%B5%20%E1%88%81%E1%88%88%E1%8A%95%E1%89%B0%E1%8A%93%E1%8B%8A%20%C2%A0%E1%8A%A5%E1%8B%B5%E1%8C%88%E1%89%B5%20%E1%8A%A5%E1%8A%93%20%C2%A0%E1%8D%88%E1%89%B0%E1%8A%93%E1%8B%8E%E1%89%BD%20%E1%8B%99%E1%88%AA%E1%8B%AB%C2%A0%E1%88%9D%E1%8A%AD%E1%8A%AD%E1%88%AD%20%C2%A0%E1%89%B0%E1%8A%AB%E1%88%84%E1%8B%B0%E1%8D%A2%20%C2%A0%20%20%E1%88%98%E1%8C%8B%E1%89%A2%E1%89%B5%20%C2%A022%20%E1%89%80%E1%8A%95%202018%20%E1%8B%93.%E1%88%9D%20%E1%8B%A8%E1%8A%A0.%E1%8A%A0.%E1%88%B4.%E1%88%95.%E1%88%9B.%E1%8C%89.%20%E1%89%A2%E1%88%AE"></a>
+                                    </h3>
+                                    <a href="https://aawcsa.gov.et/blogs/detail/62" 
+                                    class="btnCr d-inline-block align-top fontAlter">Continue Reading <i class="fa-solid fa-arrow-right"></i></a>
+                                </div>
+                            </article>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <span class="npbBgPattern w-100 h-100 bgCover position-absolute inaccessible"
+        style="background-image: url(/Smart/Front/images/bgPattern2.jpg);"></span>
+</section>
+
+<!-- services -->
+
+
+<section class="exploreHeightsBlock pt-4 pb-6 pb-md-9 pt-lg-7 pb-lg-14 pt-xl-11 pb-xl-20">
+	<div class="container">
+		<header class="headingHead text-center mb-12">
+			<h2 class="fwSemiBold">Explore Highlights</h2>
+		</header>
+	</div>
+	<div class="row">
+		<div class="echSliderWrap overflow-hidden w-100">
+			<div class="echSlider mx-auto w-100">
+								<div>
+					<div class="col-12">
+						<div class="echColumn d-block w-100 bgCover position-relative" style="background-image: url(https://aawcsa.gov.et/uploads/Gallery/Picture1.png)">
+							<a href="https://aawcsa.gov.et/uploads/Gallery/Picture1.png" class="echCountTag position-absolute fwSemiBold text-white px-3 py-1 lightbox" data-fancybox="true">
+								<i class="fa-solid fa-magnifying-glass-plus"></i>
+							</a>
+							<div class="echcCaptionWrap position-absolute w-100 text-white px-3 py-2 px-sm-5 py-sm-4">
+								<!-- <h3 class="mb-0 text-white">
+									<strong class="d-block font-weight-normal fontBase echCatTitle mb-1">Goverment</strong>
+									<span class="d-block">Town of Maximonia</span>
+								</h3> -->
+								<!-- <a href="portfolioClassic.html" class="d-inline-block"><i class="rounded-circle icomoon-arrowRight d-flex align-items-center justify-content-center bg-white text-dark spanLinkGo"><span class="sr-only">icon</span></i></a> -->
+							</div>
+						</div>
+					</div>
+				</div>
+								<div>
+					<div class="col-12">
+						<div class="echColumn d-block w-100 bgCover position-relative" style="background-image: url(https://aawcsa.gov.et/uploads/Gallery/Picture7.png)">
+							<a href="https://aawcsa.gov.et/uploads/Gallery/Picture7.png" class="echCountTag position-absolute fwSemiBold text-white px-3 py-1 lightbox" data-fancybox="true">
+								<i class="fa-solid fa-magnifying-glass-plus"></i>
+							</a>
+							<div class="echcCaptionWrap position-absolute w-100 text-white px-3 py-2 px-sm-5 py-sm-4">
+								<!-- <h3 class="mb-0 text-white">
+									<strong class="d-block font-weight-normal fontBase echCatTitle mb-1">Goverment</strong>
+									<span class="d-block">Town of Maximonia</span>
+								</h3> -->
+								<!-- <a href="portfolioClassic.html" class="d-inline-block"><i class="rounded-circle icomoon-arrowRight d-flex align-items-center justify-content-center bg-white text-dark spanLinkGo"><span class="sr-only">icon</span></i></a> -->
+							</div>
+						</div>
+					</div>
+				</div>
+								<div>
+					<div class="col-12">
+						<div class="echColumn d-block w-100 bgCover position-relative" style="background-image: url(https://aawcsa.gov.et/uploads/Gallery/Picture11.png)">
+							<a href="https://aawcsa.gov.et/uploads/Gallery/Picture11.png" class="echCountTag position-absolute fwSemiBold text-white px-3 py-1 lightbox" data-fancybox="true">
+								<i class="fa-solid fa-magnifying-glass-plus"></i>
+							</a>
+							<div class="echcCaptionWrap position-absolute w-100 text-white px-3 py-2 px-sm-5 py-sm-4">
+								<!-- <h3 class="mb-0 text-white">
+									<strong class="d-block font-weight-normal fontBase echCatTitle mb-1">Goverment</strong>
+									<span class="d-block">Town of Maximonia</span>
+								</h3> -->
+								<!-- <a href="portfolioClassic.html" class="d-inline-block"><i class="rounded-circle icomoon-arrowRight d-flex align-items-center justify-content-center bg-white text-dark spanLinkGo"><span class="sr-only">icon</span></i></a> -->
+							</div>
+						</div>
+					</div>
+				</div>
+								<div>
+					<div class="col-12">
+						<div class="echColumn d-block w-100 bgCover position-relative" style="background-image: url(https://aawcsa.gov.et/uploads/Gallery/Picture2.png)">
+							<a href="https://aawcsa.gov.et/uploads/Gallery/Picture2.png" class="echCountTag position-absolute fwSemiBold text-white px-3 py-1 lightbox" data-fancybox="true">
+								<i class="fa-solid fa-magnifying-glass-plus"></i>
+							</a>
+							<div class="echcCaptionWrap position-absolute w-100 text-white px-3 py-2 px-sm-5 py-sm-4">
+								<!-- <h3 class="mb-0 text-white">
+									<strong class="d-block font-weight-normal fontBase echCatTitle mb-1">Goverment</strong>
+									<span class="d-block">Town of Maximonia</span>
+								</h3> -->
+								<!-- <a href="portfolioClassic.html" class="d-inline-block"><i class="rounded-circle icomoon-arrowRight d-flex align-items-center justify-content-center bg-white text-dark spanLinkGo"><span class="sr-only">icon</span></i></a> -->
+							</div>
+						</div>
+					</div>
+				</div>
+							</div>
+		</div>
+	</div>
+</section><article class="dsSingleContent pt-7 pb-2 pt-md-10 pb-md-1 pt-lg-16 pb-lg-10  pb-xl-16">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-lg-12 col-xl-12 mb-6">
+                <div class="pr-xl-14">
+                    <header class="fzMedium mb-6">
+                        <h2 class="fwSemiBold h2vii text-center">Addis Ababa Bureau of women, Children &amp; Social Affairs</h2>
+                        <div class="row mt-8 mt-lg-14 mb-5">
+                            <div class="col-12 col-md-4">
+                                <article class="gbfColumn gbfcVII bg-white shadow text-center px-4 pt-2 pb-7 mb-6">
+                                    <i class="icnWrap fa-solid fa-eye rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"><span class="sr-only"></span></i>
+                                    <h3 class="mb-0 fwMedium h3Small position-relative pb-4">Mission</h3>
+                                                                        <p>To make Addis Ababa City comfortable, attractive and peaceful for its residents by preventing, controlling and taking action against violations and related illegal activities through the inclusive participation of the community.</p>
+                                                                    </article>
+                            </div>
+                            <div class="col-12 col-md-4">
+                                <article class="gbfColumn gbfcVII bg-white shadow text-center px-4 pt-2 pb-7 mb-6">
+                                    <i class="icnWrap fa-solid fa-magnifying-glass-plus rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"><span class="sr-only"></span></i>
+                                    <h3 class="mb-0 fwMedium h3Small position-relative pb-4">Vision</h3>
+                                                                        <p>In 2022, the city of Addis Ababa saw a decrease in regulation as a convenience for its residents as well as a model for African cities.&nbsp;</p>
+                                                                    </article>
+                            </div>
+                            <div class="col-12 col-md-4" style="list-style: none !important;">
+                                <article class="gbfColumn gbfcVII bg-white shadow text-center px-4 pt-2 pb-7 mb-6">
+                                    <i class="icnWrap fa-solid fa-heart-circle-plus rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3"><span class="sr-only"></span></i>
+                                    <h3 class="mb-0 fwMedium h3Small position-relative pb-4">Values</h3>
+                                                                        <p>1. Fight steadfastly for the rule of law,<br />
+2. Accountability,&nbsp;<br />
+3. Participatory<br />
+4. Put the public interest above oneself,<br />
+5. Servitude&nbsp;<br />
+6. Loyalty,<br />
+7. Standing up for a common cause</p>
+                                                                    </article>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</article><div class="mapHolder position-relative py-10 py-md-15 py-xl-23">
+    <div class="container">
+        <div class="row ">
+            <div class="col-12">
+                <div class="contactCard shadow position-relative bg-white px-3 py-5 px-sm-5 py-sm-10 px-md-10">
+                    <h2 class="fwSemiBold mb-8 h2vii">Do you have request? Call or visit us. </h2>
+                    <h3 class="text-danger mb-6">Phone: ስልክ ቁጥር፡- +251 118-72-32-97 /+251 118-58-15-52 ፒያሳ ደጃች ውቤ1888</h3>
+                    <address class="mb-0">
+                        <span class="mb-1 h5">Location:</span>
+                        <p class="mb-6"><strong class="font-weight-normal">Addis Ababa Bureau of women, Children &amp; Social Affairs</strong></p>
+                    </address>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ctMapWrap cmwBg position-absolute w-100 h-100">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7880.774860119666!2d38.7575754!3d9.0283771!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b85004d003209%3A0x7765701879d28715!2zYWEgQ29kZSBFbmZvcmNlbWVudCBBdXRob3JpdHkgLyDhi6jhiqDhi7LhiLUg4Yqg4Ymg4YmjIOGKqOGJsOGImyDhiqDhiLXhibDhi7Phi7DhiK0g4Yuw4YqV4YmlIOGIm-GIteGKqOGJoOGIrSDhiaPhiIjhiLXhiI3hjKPhipUg4YuL4YqTIOGImOGIteGIquGLqyDhiaThibU!5e0!3m2!1sam!2set!4v1720100725533!5m2!1sam!2set&quot; width=&quot;400&quot; height=&quot;300&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot; loading=&quot;lazy&quot; referrerpolicy=&quot;no-referrer-when-downgrade" width="100%" height="450" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+</div>
+
+            
+        </main>
+        <!-- ftAreaWrap -->
+        <div class="ftAreaWrap position-relative bg-gDark fontAlter" style="background-color: #0378A6 !important;">
+            <aside class="ftConnectAside pt-4 pb-3 pt-md-7 pb-md-7 text-center text-md-left">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-12 col-lg-7">
+                            <nav class="ftcaNav mb-4 mb-lg-0">
+                                <ul
+                                    class="list-unstyled d-flex flex-wrap mb-0 justify-content-center justify-content-lg-start text-white">
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/blogs">News</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/departments">Sectors</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/events">Events</a>
+                                    </li>
+                                  
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/publications">Publications</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/contactus">Contact Us</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/galleries">Gallery</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div>
+                        <div class="col-12 col-lg-5">
+                            <div
+                                class="ctConnectWrap d-sm-flex justify-content-sm-center justify-content-lg-end align-items-sm-center text-white">
+                                <strong
+                                    class="title flex-shrink-0 mb-1 font-weight-normal mr-sm-3 d-block">Connect With Us</strong>
+                                <ul
+                                    class="list-unstyled socialNetworks ftSocialNetworks d-flex flex-wrap justify-content-center justify-content-sm-end mb-0">
+                                    <li>
+                                        <a href="https://web.facebook.com/AABWCS" target="_blank">
+                                            <i class="fab fa-facebook-square"><span
+                                                    class="sr-only">Facebook</span></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://x.com/bowcsa?t=2VCCz3kWshrTsLQrKnO_Fw&amp;s=35" target="_blank">
+                                            <i class="fab fa-twitter"><span
+                                                    class="sr-only">Twitter</span></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.instagram.com/example" target="_blank">
+                                            <i class="fab fa-instagram"><span
+                                                    class="sr-only">Instagram</span></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.youtube.com/@A.A.C.ACODEENFORCEMENT" target="_blank">
+                                            <i class="fab fa-youtube"><span
+                                                    class="sr-only">YouTube</span></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+            <!-- footerAside -->
+            <aside class="footerAside pt-9 pb-sm-2 pt-xl-14 pb-xl-12">
+                <div class="container">
+                    <div class="row text-white">
+                        <div class="col-12 col-sm-6 col-md-5 col-xl-3 mb-6">
+                            <div class="ftLogo mt-md-1 mb-6">
+                                <a href="/">
+                                    <img src="https://aawcsa.gov.et/uploads/Setting/addis-ababa-bureau-of-women-children-social-affairs-2025-03-14-67d41ddfa4ed7.jpg"
+                                        class="img-fluid" alt="egovt">
+                                </a>
+                            </div>
+                            <address class="mb-0 ftPlace">
+
+                                <p class="mb-2"><strong class="font-weight-normal">
+                                                                                    <p>It raises awareness to the public through various methods about the regulations, controls and measures taken by the city administration related to regulation enforcement</p>
+                                                                            </strong></p>
+                                <ul class="list-unstyled ftpScheduleList mb-0">
+                                    <li>
+                                        <i class="fas fa-phone-alt icn mr-1 mr-sm-0"><span
+                                                class="sr-only">icon</span></i>
+                                        <strong
+                                            class="title font-weight-normal text-white">Phone:</strong>
+                                        <a href="tel:ስልክ ቁጥር፡- +251 118-72-32-97 /+251 118-58-15-52 ፒያሳ ደጃች ውቤ1888">ስልክ ቁጥር፡- +251 118-72-32-97 /+251 118-58-15-52 ፒያሳ ደጃች ውቤ1888</a>
+                                    </li>
+                                    <li>
+                                        <i class="fas fa-envelope icn mr-1 mr-sm-0"><span
+                                                class="sr-only">icon</span></i>
+                                        <strong
+                                            class="title font-weight-normal text-white">Email:</strong>
+                                        <a href="mailto:bowcsa@aawcsa.gov.et">bowcsa@aawcsa.gov.et</a>
+                                    </li>
+                                </ul>
+                            </address>
+                        </div>
+                                                <div class="col-12 col-sm-6 col-md-4 col-xl-3 col-xlwd-2 mb-6">
+                            <h3 class="ftHeading text-white mb-4">Directorates</h3>
+                            <ul class="list-unstyled ftsrLinksList mb-0">
+                                                                    <li>
+                                        <a
+                                            href="https://aawcsa.gov.et/directorates/30">የጉዳ</a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                            href="https://aawcsa.gov.et/directorates/29">ፕዝክኃማዳ</a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                            href="https://aawcsa.gov.et/directorates/28">ማሴኑማዳ</a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                            href="https://aawcsa.gov.et/directorates/27">ህመደማዳ</a>
+                                    </li>
+                                                                    <li>
+                                        <a
+                                            href="https://aawcsa.gov.et/directorates/26">ቀልእክዳ</a>
+                                    </li>
+                                                            </ul>
+                        </div>
+                        <div class="col-12 col-sm-4 col-md-3 col-xl-2 col-xlwd-3 mb-6">
+                            <div class="pl-xlwd-11">
+                                <h3 class="ftHeading text-white mb-4">Useful Links</h3>
+                                <ul class="list-unstyled ftsrLinksList mb-0">
+                                    
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/blogs">Our News</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/blogs">Our News</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/contactus">Gallery</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/aboutus">Our History</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/events">Events</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/departments">Sectors</a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="https://aawcsa.gov.et/directorates">Directorates</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/faqs">FAQs</a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="https://aawcsa.gov.et/publications">Publications</a>
+                                    </li>
+                                    <li>
+                                        <a href="https://aawcsa.gov.et/privacy-policy">Privacy Policy</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-12 col-sm-8 col-md-12 col-xl-4 mb-6">
+                            <div class="ml-xl-n1 ml-xlwd-n7">
+                                <h3 class="ftHeading text-white mb-5">News &amp; Updates</h3>
+                                <form action="https://aawcsa.gov.et/subscribe/new/save" method="post"
+                                    class="ftSubscribeForm">
+                                    <input type="hidden" name="_token" value="ah4ll0tp2UeNoCiUHeF0b30ZQOs0X6uraHltk7CG">                                    <label class="d-block mb-7">The latest news, articles, and resources, sent straight to your inbox every month.</label>
+                                    <div class="input-group mb-3">
+                                        <input type="email" class="form-control form-control-lg" name="email"
+                                            required placeholder="Enter Your Email">
+                                        <div class="input-group-append">
+                                            <button type="submit"
+                                                class="btn btnTheme d-flex font-weight-bold text-capitalize position-relative border-0 p-0"
+                                                data-hover="Send">
+                                                <span class="d-block btnText">Subscribe</span>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </aside>
+            <!-- pageFooter -->
+            <footer id="pageFooter" class="text-center bg-dark pt-6 pb-3 pt-md-8 pb-md-5 text-white">
+                <div class="container">
+                    <p><a href="javascript:void(0);">Addis Ababa Bureau of women, Children &amp; Social Affairs</a> - &copy; 2026. <br
+                            class="d-md-none">All Rights Reserved - Powered by<a href="https://aaitdb.gov.et/"
+                            target="_blank"> ITDB</a></p>
+                </div>
+            </footer>
+        </div>
+    </div>
+    <!-- include jQuery library -->
+    <script src="/Smart/Front/js/jquery-3.4.1.min.js"></script>
+    <script src="/Smart/Front/js/jqueryCustom.js"></script>
+    <script src="/Smart/Front/js/plugins.js"></script>
+    <!-- <script src="../../../../kit.fontawesome.com/391f644c42.js"></script> -->
+    <script>
+        // script.js
+        if (window.innerWidth > 768) {
+            document.addEventListener('DOMContentLoaded', function() {
+                const popup = document.getElementById('popup');
+                const closePopup = document.getElementById('close-popup');
+
+                // Function to show the popup
+                function showPopup() {
+                    popup.style.display = 'block';
+                }
+
+                // Function to close the popup
+                function closePopupFunc() {
+                    popup.style.display = 'none';
+                }
+
+                // Automatically show the popup after a delay (e.g., 5 seconds)
+                setTimeout(showPopup, 5000);
+
+                // Close the popup when the close button is clicked
+                closePopup.addEventListener('click', closePopupFunc);
+            });
+        }
+    </script>
+    
+</body>
+
+</html>
